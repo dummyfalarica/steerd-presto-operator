@@ -72,4 +72,8 @@ $ kubectl apply -f    deploy/crds/falarica.io_v1alpha1_presto_cr.yaml
 ## Community support
 
 * [Slack](https://join.slack.com/t/falarica/shared_invite/zt-gql1dl9i-mm6lOJYgsEUuF6JXIgxCcA) ![Slack](http://i.imgur.com/h3sc6GM.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdummyfalarica%2Fsteerd-presto-operator.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdummyfalarica%2Fsteerd-presto-operator?ref=badge_shield)
 * [contact@falarica.io](contact@falarica.io)
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdummyfalarica%2Fsteerd-presto-operator.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdummyfalarica%2Fsteerd-presto-operator?ref=badge_large)
